@@ -49,7 +49,7 @@ function firstVowel(text) {
 console.log(firstVowel("hello"));
 
 
-console.log(word("abc"))
+
 
 
 
